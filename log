@@ -1,0 +1,106 @@
+OSS: Generating process with PID 5100 (High priority) and putting it in queue 0 at time 0:0
+OSS: Dispaching PID 5100 at time 0:190
+OSS: Total time this dispatch was 190
+OSS: Receiving that process with PID 5100 ran for 190
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5100 into queue 1
+OSS: Dispaching PID 5100 at time 0:440
+OSS: Total time this dispatch was 60
+OSS: Receiving that process with PID 5100 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5100 into queue 1
+OSS: Generating process with PID 5101 (High priority) and putting it in queue 0 at time 1008981770:10000000
+OSS: Dispaching PID 5100 at time 1008981770:10000039
+OSS: Total time this dispatch was 39
+OSS: Receiving that process with PID 5100 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5100 into queue 1
+OSS: Generating process with PID 5102 (High priority) and putting it in queue 0 at time 1017370378:10000000
+OSS: Dispaching PID 5101 at time 1017370378:10000378
+OSS: Total time this dispatch was 378
+OSS: Receiving that process with PID 5101 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5101 into queue 1
+OSS: Generating process with PID 5103 (High priority) and putting it in queue 0 at time 1022739087:10000000
+OSS: Dispaching PID 5100 at time 1022739087:10000619
+OSS: Total time this dispatch was 619
+OSS: Receiving that process with PID 5100 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5100 into queue 1
+OSS: Generating process with PID 5104 (Round Robin High Priority) and putting it in queue 1 at time 1025758986:10000000
+OSS: Dispatching pid : 5104 at 1025758986:10000623
+OSS: Total time this dispatch was 623
+OSS: Receiving that process with PID 5104 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5104 into queue 0
+OSS: Generating process with PID 5105 (High priority) and putting it in queue 0 at time 1027101163:5000000
+OSS: Dispatching pid : 5105 at 1027101163:5000709
+OSS: Total time this dispatch was 709
+OSS: Receiving that process with PID 5105 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5105 into queue 0
+OSS: Generating process with PID 5106 (High priority) and putting it in queue 0 at time 1028443340:5000000
+OSS: Dispatching pid : 5106 at 1028443340:5000176
+OSS: Total time this dispatch was 176
+OSS: Receiving pid : 5106 executed 5000000
+OSS: PID 5106 finished execution at time  0.055000  Total : 1342177.000000
+OSS: Dispaching PID 5102 at time 0:251
+OSS: Total time this dispatch was 251
+OSS: Receiving that process with PID 5102 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5102 into queue 1
+OSS: Generating process with PID 5107 (High priority) and putting it in queue 0 at time 1008981770:10000000
+OSS: Dispaching PID 5101 at time 1008981770:10000279
+OSS: Total time this dispatch was 279
+OSS: Receiving that process with PID 5101 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5101 into queue 1
+OSS: Generating process with PID 5108 (High priority) and putting it in queue 0 at time 1008981770:0
+OSS: Dispaching PID 5103 at time 1008981770:388
+OSS: Total time this dispatch was 388
+OSS: Receiving that process with PID 5103 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5103 into queue 1
+OSS: Generating process with PID 5109 (High priority) and putting it in queue 0 at time 1009089144:100000
+OSS: Dispaching PID 5100 at time 1009089144:100459
+OSS: Total time this dispatch was 459
+OSS: Receiving that process with PID 5100 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5100 into queue 1
+OSS: Generating process with PID 5110 (Medium priority) and putting it in queue 0 at time 1015706078:6800000
+OSS: Dispatching pid : 5110 at 1015706078:6800872
+OSS: Total time this dispatch was 872
+OSS: Receiving that process with PID 5110 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5110 into queue 0
+OSS: Generating process with PID 5111 (High priority) and putting it in queue 0 at time 1018390432:5000000
+OSS: Dispatching pid : 5111 at 1018390432:5000085
+OSS: Total time this dispatch was 85
+OSS: Receiving that process with PID 5111 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5111 into queue 0
+OSS: Generating process with PID 5112 (High priority) and putting it in queue 0 at time 1021074786:5000000
+OSS: Dispatching pid : 5112 at 1021074786:5000484
+OSS: Total time this dispatch was 484
+OSS: Receiving that process with PID 5112 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5112 into queue 0
+OSS: Generating process with PID 5113 (Round Robin High Priority) and putting it in queue 1 at time 1023584658:5000000
+OSS: Dispatching pid : 5113 at 1023584658:5000703
+OSS: Total time this dispatch was 703
+OSS: Receiving that process with PID 5113 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5113 into queue 0
+OSS: Generating process with PID 5114 (High priority) and putting it in queue 0 at time 1024926835:5000000
+OSS: Dispatching pid : 5113 at 1024926835:5000739
+OSS: Total time this dispatch was 739
+OSS: Receiving that process with PID 5113 ran for 0
+OSS: not used it entire quantum 
+OSS: Putting process with PID 5113 into queue 0
+OSS: Generating process with PID 5115 (High priority) and putting it in queue 0 at time 1024926835:0
+OSS: Dispatching pid : 5114 at 1024926835:872
+OSS: Total time this dispatch was 872
+OSS: Receiving pid : 5114 executed 2555000064
+OSS: PID 5114 finished execution at time  2.591900  Total : 51297608.000000
+OSS: Dispatching pid : 5114 at 0:448
+OSS: Total time this dispatch was 448
